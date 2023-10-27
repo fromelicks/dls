@@ -1,0 +1,14 @@
+name: dls_ml310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - tqdm
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - catboost
