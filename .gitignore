@@ -1,2 +1,4 @@
 catboost_info
 data/**/my_submission.csv
+notebooks/*/grade
+.vscode/
